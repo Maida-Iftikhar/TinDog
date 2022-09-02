@@ -1,2 +1,1 @@
-# TinDog
-Kinda Tinder of a platform for the doggos
+TinDog Starting Files
